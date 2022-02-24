@@ -1,0 +1,1 @@
+// Every platform has its own  JS but for creatives-mededia-public, this file is unwanted.
