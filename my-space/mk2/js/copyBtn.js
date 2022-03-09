@@ -17,7 +17,7 @@ function copyFolderId() {
         function () {
         let copyFolderId = document.getElementById('copyFolderId');
         let protocol = 'https://';
-        let host = 'photos.sebastian.ghiveci.com/';
+        let host = 'my-space.sebastian.ghiveci.com/';
         let path = 'folder/';
         let source = protocol+host+path+folderId;
 
