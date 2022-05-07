@@ -1,6 +1,5 @@
 # <p align="center"><b>INOCULENS MEDIA</b> - Control Panel
 
-## About
 This is the official control panel for all INOCULENS MEDIA platforms.<br/>
 It is designed to send custom requests to the [Download Manager](https://github.com/inoculens/download-manager) in order to validate and process them.<br><br>
 
