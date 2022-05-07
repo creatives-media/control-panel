@@ -1,6 +1,6 @@
 # <p align="center"><b>INOCULENS MEDIA</b> - Control Panel
 
-This is the official control panel for all INOCULENS MEDIA platforms.<br/>
+This is the official Control Panel for all INOCULENS MEDIA platforms.<br/>
 It is designed to send custom requests to the [Download Manager](https://github.com/inoculens/download-manager) in order to validate and process them.<br><br>
 
 ## Change Log<br>
@@ -17,7 +17,7 @@ It is designed to send custom requests to the [Download Manager](https://github.
 <b>Release 〢 1.0.0</b><br>
 
 ```
-- The control panel has been released as an open source project. It is capable of processing requests coming from three different platforms.
+- The Control Panel has been released as an open source project. It is capable of processing requests coming from three different platforms.
 ```
 </div>
 
