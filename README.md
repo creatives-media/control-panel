@@ -22,7 +22,5 @@ It is capable of processing requests coming from three different platforms.
 ```
 </div>
 
-<br>
-
 #
 <p align="center">© INOCULENS MEDIA<br/>www.inoculens.com<br>
