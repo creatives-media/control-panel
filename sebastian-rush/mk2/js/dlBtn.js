@@ -1,6 +1,6 @@
 function openDlManager() {
   let protocol = 'https://';
-  let host = 'apps.creatives-media.ghiveci.com/';
+  let host = 'apps.inoculens.com/';
   let internalPath = 'download-manager/mk3/';
   let source = '&source=rush.sebastian.ghiveci.com';
 
