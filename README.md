@@ -8,15 +8,21 @@ It is designed to send custom requests to the [Download Manager](https://github.
 <div style="background-color: rgb(50, 50, 50);">
 <b>Release 〢 1.0.1</b><br>
 
-```Updated the files to reflect the new name.```<br>
-```Documented the change log inside the README.md file.```
+```
+Updated the files to reflect the new name.
+Documented the change log inside the README.md file.
+```
+</div>
 
-<br>
+<div style="background-color: rgb(50, 50, 50);">
 <b>Release 〢 1.0.0</b><br>
 
-```The control panel has been released as an open source project.```<br>
-```It is capable of processing requests coming from three different platforms.```
+```
+The control panel has been released as an open source project.
+It is capable of processing requests coming from three different platforms.
+```
 </div>
+
 <br>
 
 #
