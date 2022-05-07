@@ -23,4 +23,4 @@ It is capable of processing requests coming from three different platforms.
 </div>
 
 #
-<p align="center">© INOCULENS MEDIA<br/>www.inoculens.com<br>
+<p align="center">© 2022 〣 INOCULENS MEDIA<br/>www.inoculens.com<br>
