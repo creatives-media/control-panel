@@ -9,7 +9,7 @@ It is designed to send custom requests to the [Download Manager](https://github.
 
 ```
 - Migrated the INOCULENS APPS outside INOCULENS CDN.
-- Cleand up the source code.
+- Cleaned up the source code.
 ```
 </div>
 
