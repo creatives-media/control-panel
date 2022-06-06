@@ -5,6 +5,15 @@ It is designed to send custom requests to the [Download Manager](https://github.
 
 ## Change Log<br>
 <div style="background-color: rgb(50, 50, 50);">
+<b>Release 〢 1.1.0</b><br>
+
+```
+- Migrated the INOCULENS APPS outside INOCULENS CDN.
+- Cleaned up the source code.
+```
+</div>
+
+<div style="background-color: rgb(50, 50, 50);">
 <b>Release 〢 1.0.1</b><br>
 
 ```
