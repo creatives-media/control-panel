@@ -1,0 +1,85 @@
+@import url('https://gocdn.frontfacer.com/fonts/global.css');
+
+body {
+  background: rgba(0, 0, 0, 0.001);
+}
+
+/* ========== Link-ul privat ========== */
+.link {
+  text-align: center;
+  padding-top: 0px;
+}
+
+input[type="link"] {
+  border-radius: 15px;
+  width: 285px;
+  height: 30px;
+  padding-left: 8px;
+  padding-right: 8px;
+  outline: none;
+  border: none;
+  color: #0000EE;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.1), 0 1px 10px 0 rgba(0,0,0,0.15);
+  font-size: 11.7px;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* ========== Butoanele ========== */
+.buttons {
+  text-align: center;
+  justify-content: center;
+  padding-top: 15px;
+  outline: none;
+}
+
+button {
+  border: none;
+  border-radius: 8px;
+  color: black;
+  border: 1px solid rgb(225, 225, 225);
+  background-color: #f8f9fa;
+  padding: 5px 20px;
+  font-size: 11px;
+  font-weight: 400;
+  font-family: 'Poppins', sans-serif;
+  transition-duration: 0.2s;
+}
+
+button:hover, button:focus {
+  border: 1px solid gray;
+  cursor: pointer;
+}
+
+button:active {
+  transform: translateY(2px);
+  outline: none;
+}
+
+@media only screen and (max-width: 210px) {
+  input[type="link"] {
+    border-radius: 15px;
+    width: 160px;
+    height: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+    outline: none;
+    border: none;
+    color: #0000EE;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.1), 0 1px 10px 0 rgba(0,0,0,0.15);
+    font-size: 11.7px;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  button {
+    border: none;
+    border-radius: 8px;
+    color: black;
+    border: 1px solid rgb(225, 225, 225);
+    background-color: #f8f9fa;
+    padding: 2px 8px;
+    font-size: 11px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    transition-duration: 0.2s;
+  }  
+}
