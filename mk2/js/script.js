@@ -1,5 +1,6 @@
 // DEFAULTS
 window.onload = function() {
+  // Adjust
   let combiner = document.getElementById("combiner");
 
   let protocol = 'https://';
