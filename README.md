@@ -6,6 +6,10 @@
 The panel was designed to send custom requests to the [Download Manager](https://github.com/inoculens/download-manager) in order to validate and process them.<br>
 
 ## Change Log
+<b>Release 〢 1.0.0 (mk2) | build 2</b>
+
+- Commit name adjustment - 2.
+
 <b>Release 〢 1.0.0 (mk2) | build 1</b>
 
 - Commit name adjustment - 1.
