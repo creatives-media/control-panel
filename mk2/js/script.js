@@ -48,7 +48,7 @@ function copyFolderId() {
 function openDlManager() {
   let protocol = 'https://';
   let host = 'apps.inoculens.com/';
-  let internalPath = 'download-manager/mk3/';
+  let internalPath = 'download-manager/';
   let source = '&source=media.inoculens.com';
 
   // Base64 Encoding
