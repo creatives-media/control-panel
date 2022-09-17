@@ -5,35 +5,38 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+    <!-- SEO -->
+    <title>INOCULENS MEDIA - Control Panel</title>
+
+    <!-- FAV ICON -->
+    <link rel="icon" type="image/png" href="https://static.inoculens.com/logo">
+
     <!-- CSS -->
-    <link rel="stylesheet" href="https://apps.inoculens.com/control-panel/@config/css/style/latest.css">
+    <link rel="stylesheet" href="https://apps.inoculens.com/control-panel/css/style.css">
 
     <!-- JS -->
-    <script src="https://apps.inoculens.com/control-panel/sebastian-photos/mk3/js/script.js"></script>
+    <script src="https://apps.inoculens.com/control-panel/mk2/js/script.js"></script>
   </head>
   <body>
-    <!-- Input identificare folder ID -->
+    <!-- Identificare folder ID si platforma -->
     <div class="link" id="linkContainer">
       <script>
         let folderId = 'go78nk78De';
       </script>
-      <input type="link" id="combiner" name="folderId" value="https://p.ghiveci.com/src/panel-err" />
+      <input type="link" id="combiner" name="folderId" value="Panel Error" />
     </div>
-    <!-- Sfarsit identificare folder ID -->
 
+    <!-- Butoane -->
     <div class="buttons" id="allButtons">
-      <!-- Inceput buton de copy -->
+      <!-- Buton de copy -->
       <button id="copyFolderId" onclick="copyFolderId()">Copy Link</button>
-      <!-- Sfarsit buton de copy -->
-
-      <!-- Inceput buton de download -->
+      <!-- Buton de download -->
       <script>
         let dlStatus = 'demo'; // 1 available | 0 expired
         let oneDrv = '';
         let directLink = '';
       </script>
       <button id="dlBtn" onclick="openDlManager()">Download</button>
-      <!-- Sfarsit buton de download -->
     </div>
   </body>
 </html>
