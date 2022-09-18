@@ -6,6 +6,10 @@
 The panel was designed to send custom requests to the [Download Manager](https://github.com/inoculens/download-manager) in order to validate and process them.<br>
 
 ## Change Log
+<b>Release 〢 1.0.1 (mk2) | build 1</b>
+
+- Changed the structure of the core. The script is now interpreted without the mark notation.
+
 <b>Release 〢 1.0.1 (mk2)</b>
 
 - Changed the request format for the Download Manager. It is now requesting directly to the root instead of the mark.
