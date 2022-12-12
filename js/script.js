@@ -56,18 +56,18 @@ function openDlManager() {
   
   // For OneDrive
   if (oneDrv.includes('.') && dlStatus.includes('1')) {
-    let extractedLink = oneDrv.substr(0,48);
-    console.log(extractedLink);
-    let encodedLink = Base64.encode(extractedLink);
+    let extractedLink = oneDrv.split('?');
+    console.log(extractedLink[0]);
+    let encodedLink = Base64.encode(extractedLink[0]);
     console.log(encodedLink);
     let dlLocation = protocol+host+internalPath+encodedLink+'?t=1drv'+source;
     console.log("1drv Opertional and returend " + dlLocation);
     window.open(dlLocation, "_blank");
   }
   else if (oneDrv.includes('.') && dlStatus.includes('0')) {
-    let extractedLink = oneDrv.substr(0,48);
-    console.log(extractedLink);
-    let encodedLink = Base64.encode(extractedLink);
+    let extractedLink = oneDrv.split('?');
+    console.log(extractedLink[0]);
+    let encodedLink = Base64.encode(extractedLink[0]);
     console.log(encodedLink);
     let dlLocation = protocol+host+internalPath+encodedLink+'?t=expired'+source;
     console.log("1drv Opertional and returend " + dlLocation);
